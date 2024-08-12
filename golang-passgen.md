@@ -187,7 +187,5 @@ func main() {
    - Po uzyskaniu poprawnych danych wejściowych, program generuje hasło przy użyciu funkcji `GeneratePassword` i wyświetla je na konsoli.
 
 5. **Pytanie o kolejne hasło**:
-   - Po wygenerowaniu hasła program pyta, czy użytkownik chce wygenerować kolejne hasło. Jeśli użytkownik wprowadzi `y`, proces rozpoczyna się od nowa.
-
- W przeciwnym razie program kończy działanie.
+   - Po wygenerowaniu hasła program pyta, czy użytkownik chce wygenerować kolejne hasło. Jeśli użytkownik wprowadzi `y`, proces rozpoczyna się od nowa. W przeciwnym razie program kończy działanie.
 
